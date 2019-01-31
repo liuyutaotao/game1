@@ -37,9 +37,9 @@
                     </el-form>
                 </el-tab-pane>
                 <div class="else-info">
-                    <a href="#">忘记密码</a>|
-                    <router-link to="/Introduce">游客登录</router-link>|
-                    <a href="#">意见反馈</a>
+                    <!-- <a href="#">忘记密码</a>| -->
+                    <router-link to="/Introduce">游客登录</router-link>
+                    <!-- <a href="#">意见反馈</a> -->
                 </div>
             </el-tabs>
         </div>

@@ -14,10 +14,10 @@
             <span slot="reference">灵饰专区</span>
           </el-popover>
         </div>
-        <a href>基本版</a>|
+        <!-- <a href>基本版</a>|
         <a href>English</a>|
         <a href>手机版</a>|
-        <a href>定制版</a>
+        <a href>定制版</a> -->
       </el-header>
       <el-main>
         <el-row>
@@ -32,7 +32,7 @@
           </el-col>
         </el-row>
       </el-main>
-      <el-footer>
+      <!-- <el-footer>
         <a href>关于游戏</a>
         <span>|</span>
         <a href>服务条款</a>
@@ -46,7 +46,7 @@
         <a href>帮助中心</a>
         <span>|</span>
         <span>© 2019 mhxy. All Rights Reserved.</span>
-      </el-footer>
+      </el-footer> -->
     </el-container>
   </div>
 </template>

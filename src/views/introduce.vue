@@ -58,7 +58,7 @@
         <div class="centent">
             <div class="title">
               <h1> 欢迎来到梦幻西游灵饰专区 ！</h1>
-              <span style="color:red">(点击右上角“灵饰”可查看详细介绍)</span>
+              <!-- <span style="color:red">(点击右上角“灵饰”可查看详细介绍)</span> -->
             </div>
             <el-row :gutter="30" justify="center" type="flex">
               <el-col :span="6">
